@@ -55,7 +55,7 @@
   <h2>User Management Functions</h2>
   <p>Upon logging in as a USER, the following functions are available:</p>
   <ul>
-    <li><strong>Add and Modify User: </strong>strong>Can add the details of users(students, lecturers, and librarians) and Modify them.</li>
+    <li><strong>Add and Modify User: </strong>Can add the details of users(students, lecturers, and librarians) and Modify them.</li>
     <li><strong>User list: </strong> View the available users in the stock along with their details.</li>
 <li><strong>Search User:</strong> ADMIN can find a particular piece of information or data regarding the books from a User list.</li>
 <li><strong>Delete User:</strong>     ADMIN  can permanently delete all of their associated data from the User list.</li>
