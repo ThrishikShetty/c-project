@@ -1,11 +1,11 @@
  <h1>LIBRARY MANAGEMENT SYSTEM</h1>
-  <p>The Library  Management System is a software application designed to help manage books in the library and streamline inventory management in school or college and public libraries. The system provides two login options: ADMIN and USER. The ADMIN login allows authorised personnel to control and manage the stock, while the USER login allows regular users to view available books and make rentals.</p>
+  <p>The Library  Management System is a software application designed to help manage books in the library and streamline inventory management in school or college and public libraries. The system provides login options: ADMIN . The ADMIN login allows authorised personnel to control and manage the Library Functions such as adding books ,removing books ,searching books and and make rentals.</p>
 
-  <h2>User Panels</h2>
-  <p>The Library  Management System  has two panels:</p>
+  
+  <h4>The Library  Management System  has two panels:</h4>
   <ul>
     <li><strong>Book Management panel:</strong> Authorised personnel responsible for managing the books in the library  and performing administrative functions such as Adding books, Modify, Rent books etc.</li>
-    <li><strongUser Management panel:</strong>  Authorised personnel responsible for managing the Users or Readers and performing administrative functions such as Adding users, Modify users, List user, List Rentals, Search user, Delete user etc.</li>
+    <li><strong>User Management panel:</strong>  Authorised personnel responsible for managing the Users or Readers and performing administrative functions such as Adding users, Modify users, List user, List Rentals, Search user, Delete user etc.</li>
   </ul>
 
   <h2>Features</h2>
