@@ -62,7 +62,7 @@
   </ul>
 
   <h2>Mind Map</h2>
-  <img src=" "></img>
+  <img src="https://github.com/ThrishikShetty/c-project/blob/main/Mind%20Map.jpg "></img>
 
   <h2>Flowchart</h2>
   <img src="https://github.com/ThrishikShetty/c-project/blob/main/LibraryManagementSystem.jpg"></img>
